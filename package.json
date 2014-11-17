@@ -1,0 +1,30 @@
+{
+    "name": "cloaked-octo-meme",
+    "version": "0.0.1",
+    "description": " ",
+    "homepage": "https://unify.cat/",
+    "author": {
+        "name": "Data Chand",
+        "email": "data.chand@outlook.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/datachand/cloaked-octo-meme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/datachand/cloaked-octo-meme/issues"
+    },
+    "preferGlobal": true,
+    "private": true,
+    "analyze": true,
+    "licenses": [{
+        "type": "Apache-2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }],
+    "publishConfig": {
+        "registry": "https://npm.repo.cat.com/"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "optionalDependencies": {}
+}
